@@ -57,11 +57,11 @@ staticDir = ["static", "../assets/others"]               # static directories
     url = "about"
     weight = 4
 
-  [[menu.main]]
-    identifier = "zh"
-    name = '<i class="fas fa-language fa-fw"></i>'
-    url = "https://hugo-loveit-zh.netlify.com"
-    weight = 5
+# [[menu.main]]
+#   identifier = "zh"
+#   name = '<i class="fas fa-language fa-fw"></i>'
+#   url = "https://hugo-loveit-zh.netlify.com"
+#   weight = 5
 
 [params]
   version = "5.x"                                        # LoveIt theme version
@@ -72,7 +72,7 @@ staticDir = ["static", "../assets/others"]               # static directories
   home_mode = "post"                                     # [post, other] home mode
   home_paginate = 6                                      # special amount of posts in each home post page
   avatar = "images/avatar.png"                           # URL of avatar shown in home page
-  subtitle = "A Clean, Elegant but Advanced Hugo Theme"  # subtitle shown in home page
+  subtitle = "Apaixonado pela familia, por tecnologia e estudande de JavaScript."  # subtitle shown in home page
 
   socialShare = true                                     # whether to show social share links in post page
 
